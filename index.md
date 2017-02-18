@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/SawhneyVardan/Compass-/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Focus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Applications_ 
+The idea of the Compass is to relieve the stress on guide dogs, and still allow citizens with visual disabilities to carry out daily errands, in a compact manner as a wristwatch. This can even be used for those who do not have visual impairements, and simply desire a simpler and more efficient method of guidance. 
 
-```markdown
-Syntax highlighted code block
+The product uses both the Google Maps API 
 
 **Bold** asdfasdfasdf 
 
