@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Focus
 
 _Applications_ 
+
 The idea of the Compass is to relieve the stress on guide dogs, and still allow citizens with visual disabilities to carry out daily errands, in a compact manner as a wristwatch. This can even be used for those who do not have visual impairements, and simply desire a simpler and more efficient method of guidance. 
 
 The product uses both the Google Maps API 
